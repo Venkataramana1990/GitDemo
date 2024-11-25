@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [loan deoartment]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Personal test cases(failed)">
+    <parameter name="Username" value="rahul steaphen"/>
+    <parameter name="URL" value="newwebsite.com"/>
+    <classes>
+      <class name="test.day3">
+        <methods>
+          <include name="ABitestCases"/>
+        </methods>
+      </class> <!-- test.day3 -->
+    </classes>
+  </test> <!-- Personal test cases(failed) -->
+</suite> <!-- Failed suite [loan deoartment] -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-05T18:30:31 IST" name="Default suite" finished-at="2024-11-05T18:30:31 IST" duration-ms="69">
+    <groups>
+    </groups>
+    <test started-at="2024-11-05T18:30:31 IST" name="Default test" finished-at="2024-11-05T18:30:31 IST" duration-ms="69">
+      <class name="test.testng">
+        <test-method is-config="true" signature="testforbeforesuite()[pri:0, instance:test.testng@c88a337]" started-at="2024-11-05T18:30:31 IST" name="testforbeforesuite" finished-at="2024-11-05T18:30:31 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testforbeforesuite -->
+        <test-method is-config="true" signature="TestforBeforeTest()[pri:0, instance:test.testng@c88a337]" started-at="2024-11-05T18:30:31 IST" name="TestforBeforeTest" finished-at="2024-11-05T18:30:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestforBeforeTest -->
+        <test-method signature="Demo()[pri:0, instance:test.testng@c88a337]" started-at="2024-11-05T18:30:31 IST" name="Demo" finished-at="2024-11-05T18:30:31 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method signature="Secondtest()[pri:0, instance:test.testng@c88a337]" started-at="2024-11-05T18:30:31 IST" name="Secondtest" finished-at="2024-11-05T18:30:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Secondtest -->
+        <test-method signature="testforAftersuite()[pri:0, instance:test.testng@c88a337]" started-at="2024-11-05T18:30:31 IST" name="testforAftersuite" finished-at="2024-11-05T18:30:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testforAftersuite -->
+        <test-method signature="testforbeforesuite()[pri:0, instance:test.testng@c88a337]" started-at="2024-11-05T18:30:31 IST" name="testforbeforesuite" finished-at="2024-11-05T18:30:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testforbeforesuite -->
+        <test-method is-config="true" signature="Demoforaftertest()[pri:0, instance:test.testng@c88a337]" started-at="2024-11-05T18:30:31 IST" name="Demoforaftertest" finished-at="2024-11-05T18:30:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demoforaftertest -->
+        <test-method is-config="true" signature="testforAftersuite()[pri:0, instance:test.testng@c88a337]" started-at="2024-11-05T18:30:31 IST" name="testforAftersuite" finished-at="2024-11-05T18:30:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testforAftersuite -->
+      </class> <!-- test.testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
